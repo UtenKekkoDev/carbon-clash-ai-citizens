@@ -36,7 +36,7 @@ Players must balance three key indicators:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YuxuanSun123/HCI-Carbon-Clash.git
+git clone https://github.com/UtenKekkoDev/HCI-Carbon-Clash.git
 cd HCI-Carbon-Clash
 ```
 
